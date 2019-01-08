@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>moveForward</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/PlaygroundPage.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Matatabot&apos;s Forward Path</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>use moveForward() or moveForward(_ step:Step) to let  MatataBot go forward.</string>
+				<key>Title</key>
+				<string>moveForward</string>
+			</dict>
+		</dict>
+		<key>moveBackward</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/PlaygroundPage1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Matatabot&apos;s Maze No.1</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>use moveBackward() or moveBackward(_ step:Step) to let  MatataBot go backward.</string>
+				<key>Title</key>
+				<string>moveBackward</string>
+			</dict>
+		</dict>
+		<key>turnLeft</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/PlaygroundPage.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Matatabot&apos;s Forward Path</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>use turnLeft() or turnLeft(_ angle:Angle) to let  MatataBot turn left.</string>
+				<key>Title</key>
+				<string>turnLeft</string>
+			</dict>
+		</dict>
+		<key>turnRight</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/PlaygroundPage.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Matatabot&apos;s Forward Path</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>use turnRight() or turnRightt(_ angle:Angle) to let  MatataBot turn rightt.</string>
+				<key>Title</key>
+				<string>turnRight</string>
+			</dict>
+		</dict>
+		<key>doAction</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/PlaygroundPage6.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Creat Your Own Matatabot Stories!</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Let MatataBot do a pre-set action.(No.1~6)</string>
+				<key>Title</key>
+				<string>doAction</string>
+			</dict>
+		</dict>
+		<key>doDance</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/PlaygroundPage4.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Matatabot Can Sing</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Let MatataBot do a pre-set dance.(No.1~6)</string>
+				<key>Title</key>
+				<string>doDance</string>
+			</dict>
+		</dict>
+		<key>playMusic</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/PlaygroundPage4.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Matatabot Can Sing</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Let MatataBot play a pre-set music.(No.1~6)</string>
+				<key>Title</key>
+				<string>playMusic</string>
+			</dict>
+		</dict>
+		<key>playAlto</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/PlaygroundPage4.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Matatabot Can Sing</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Let MatataBot play a alto tone.</string>
+				<key>Title</key>
+				<string>playAlto</string>
+			</dict>
+		</dict>
+		<key>playTreble</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/PlaygroundPage4.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Matatabot Can Sing</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Let MatataBot play a treble tone.</string>
+				<key>Title</key>
+				<string>playTreble</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
